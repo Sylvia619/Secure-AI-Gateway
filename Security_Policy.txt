@@ -1,0 +1,4 @@
+1. All employee prompts must be checked for PII (IBANs).
+2. Internal financial strategies (interest rates, market moves) are strictly confidential.
+3. Users are not allowed to ask the AI to "ignore previous rules.
+4. Internal server architectures or JSON schemas must never be revealed.
