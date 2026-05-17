@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Output file
+/*.csv
+/Important points.ipynb
+.idea
